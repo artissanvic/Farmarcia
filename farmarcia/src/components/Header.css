@@ -1,0 +1,113 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+.nav-bar{
+
+    background-color: var(--cor-5);
+border-radius: 80px;
+display: flex;
+height: fit-content;
+align-items: center;
+border: solid var(--cor-4) 2px;
+display: flex;
+padding: 10px 20px;
+width: 1550px;
+margin-left: 150px;
+margin-top: 20px;
+}
+
+.imagem-logo{
+
+    width: fit-content;
+    height: 85px ;
+    margin-left: 30px;
+}
+
+.button-home{
+    border: transparent;
+    color: var(--cor-4);
+    border-radius: 50%;
+    background-color: transparent;
+    height: 70px;
+    width: 120px;
+    font-size: 35px;
+    margin-left: 190px;
+}
+
+.button-home:hover{
+
+    transition: 0.5s;
+    color: var(--cor-1);
+    border-radius: 50%;
+    background-color: transparent;
+    font-size: 34px;
+ 
+
+}
+
+.button-loja{
+    border: transparent;
+    color: var(--cor-4);
+    border-radius: 50%;
+    background-color: transparent;
+    height: 70px;
+    width: 120px;
+    font-size: 35px;
+    margin-left: 80px;
+}
+
+.button-loja:hover{
+    transition: 0.5s;
+    color: var(--cor-1);
+    border-radius: 50%;
+    background-color: transparent;
+    font-size: 34px;
+}
+
+.button-blog{
+
+    border: transparent;
+    color: var(--cor-4);
+    border-radius: 50%;
+    background-color: transparent;
+    height: 70px;
+    width: 120px;
+    font-size: 35px;
+    margin-left: 80px;
+}
+
+.button-blog:hover{
+    transition: 0.5s;
+    color: var(--cor-1);
+    border-radius: 50%;
+    background-color: transparent;
+    font-size: 34px;
+}
+
+.button-sobre{
+
+    border: transparent;
+    color: var(--cor-4);
+    border-radius: 50%;
+    background-color: transparent;
+    height: 70px;
+    width: 180px;
+    font-size: 35px;
+    margin-left: 80px;
+
+}
+
+.button-sobre:hover{
+    transition: 0.5s;
+    color: var(--cor-1);
+    border-radius: 50%;
+    background-color: transparent;
+    font-size: 34px;
+}
+

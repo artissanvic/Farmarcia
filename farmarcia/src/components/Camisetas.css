@@ -1,0 +1,53 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+.aviso-produto{
+
+    background-color: var(--cor-6);
+}
+
+.aviso-promo{
+
+    font-family: "Barlow", sans-serif;
+    margin-left: 26%;
+    color: #5a242c;
+    margin-top: 20px;
+
+}
+
+.div-camisa-1{
+
+    display: inline-block;
+    margin-left: 10px;
+    background-color: var(--cor-6);
+    width: fit-content;
+    padding: 10px;
+    margin-left: 120px;
+
+}
+
+.div-camisa{
+
+    display: inline-block;
+    margin-left: 10px;
+    background-color: var(--cor-6);
+    width: fit-content;
+    padding: 10px;
+}
+
+.camisa{
+
+   
+    height: 200px;
+}
+
+.camisa-duas{
+
+    height: 200px;
+}

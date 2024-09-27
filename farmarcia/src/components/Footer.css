@@ -1,0 +1,46 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+
+.footer{
+
+    background-color: var(--cor-4);
+  color: var(--cor-5); 
+  padding: 20px; 
+  position: fixed; 
+  bottom: 0; 
+ width: 100%; 
+ 
+}
+
+body{
+ 
+    margin: 0;
+
+}
+
+.imagem-logo{
+
+    display: inline-block;
+    margin-left: 188px;
+}
+
+p{
+
+    font-family: "Barlow", sans-serif;
+    color: var(--cor-2);
+ font-size: larger;
+margin-left: 30px;
+
+}
+
+.duvida{
+
+    margin-left: 280px;
+}

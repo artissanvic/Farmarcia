@@ -1,0 +1,54 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+body{
+
+    background-color: var(--cor-5);
+}
+
+.boas-vindas{
+    font-family: "Barlow", sans-serif;
+    margin-left: 37%;
+    color: #fa5d75;
+    margin-top: 20px;
+}
+
+.subtitulo{
+
+    font-family: "Barlow", sans-serif;
+    margin-left: 5%;
+    color: #502229;
+    margin-top: 20px;
+    margin-right: 50%;
+
+}
+
+.reformada{
+
+    margin-left: 250px;
+}
+
+p{
+    font-family: "Barlow", sans-serif;
+    color: var(--cor-3);
+ text-align: center;
+ font-size: larger;
+ display: inline-block;
+margin-left: 50px;
+
+}
+
+.promo{
+    font-family: "Barlow", sans-serif;
+    color: var(--cor-4);
+ text-align: center;
+font-size: x-large;
+font-style: oblique;
+
+}

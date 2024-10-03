@@ -6,49 +6,49 @@ function Camisetas() {
 
     <div>
 
-    <div className='aviso-produto'>
-    <h2 className='aviso-promo' >Aproveite nossas promoções mais recentes, em comemorção à nova direção!!</h2>
-    </div>
+      <div className='aviso-produto'>
+        <h2 className='aviso-promo' >Aproveite nossas promoções mais recentes, em comemorção à nova direção!!</h2>
+      </div>
 
 
 
 
-    <div className='div-camisa-1'>
+      <div className='div-camisa-1'>
 
-    <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
+        <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
 
-    </div>
-
-
+      </div>
 
 
 
-    <div className='div-camisa'>
 
 
-    <img className='camisa-duas' src="farmarcia-camisetas.PNG.png" alt="" />
+      <div className='div-camisa'>
 
-</div>
 
-<div className='div-camisa'>
+        <img className='camisa-duas' src="farmarcia-camisetas.PNG.png" alt="" />
 
-    <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
+      </div>
 
-    </div>
+      <div className='div-camisa'>
 
-    <div className='div-camisa'>
+        <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
 
-    <img className='camisa-duas' src="farmarcia-camisetas.PNG.png" alt="" />
+      </div>
 
-</div>
+      <div className='div-camisa'>
 
-<div className='div-camisa'>
+        <img className='camisa-duas' src="farmarcia-camisetas.PNG.png" alt="" />
 
-    <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
+      </div>
 
-    </div>
+      <div className='div-camisa'>
 
-   
+        <img className='camisa' src="farmarcia-camiseta.PNG.png" alt="" />
+
+      </div>
+
+
 
     </div>
   )

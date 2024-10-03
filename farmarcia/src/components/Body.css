@@ -9,7 +9,7 @@
 
 body{
 
-    background-color: var(--cor-5);
+    background-color: var(--cor-2);
 }
 
 .boas-vindas{
@@ -40,7 +40,7 @@ p{
  text-align: center;
  font-size: larger;
  display: inline-block;
-margin-left: 50px;
+
 
 }
 

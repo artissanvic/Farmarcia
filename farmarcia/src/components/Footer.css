@@ -12,7 +12,7 @@
 
     background-color: var(--cor-4);
   color: var(--cor-5); 
-  padding: 20px; 
+
   position: fixed; 
   bottom: 0; 
  width: 100%; 
@@ -28,7 +28,8 @@ body{
 .imagem-logo{
 
     display: inline-block;
-    margin-left: 188px;
+
+
 }
 
 p{
@@ -36,7 +37,7 @@ p{
     font-family: "Barlow", sans-serif;
     color: var(--cor-2);
  font-size: larger;
-margin-left: 30px;
+margin-left: 70px;
 
 }
 

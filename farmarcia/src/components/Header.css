@@ -5,6 +5,7 @@
     --cor-4: #ce1f3a;
     --cor-5: #e6e6e6;
     --cor-6: #ef97a4;
+    
 }
 
 .nav-bar{
@@ -14,12 +15,13 @@ border-radius: 80px;
 display: flex;
 height: fit-content;
 align-items: center;
-border: solid var(--cor-4) 2px;
+
 display: flex;
 padding: 10px 20px;
 width: 1550px;
 margin-left: 150px;
 margin-top: 20px;
+box-shadow: -6px -6px 10px rgba(255, 217, 217, 0.45), 6px 6px 10px rgba(122, 80, 80, 0.3);
 }
 
 .imagem-logo{
@@ -27,6 +29,15 @@ margin-top: 20px;
     width: fit-content;
     height: 85px ;
     margin-left: 30px;
+}
+
+.alinhamento-button{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+
 }
 
 .button-home{
@@ -37,7 +48,6 @@ margin-top: 20px;
     height: 70px;
     width: 120px;
     font-size: 35px;
-    margin-left: 190px;
 }
 
 .button-home:hover{
